@@ -1,2 +1,3 @@
-# backend-js
-Kurz tvorby backendu v Denu
+# Tvorba backendu v JavaScriptu
+
+Kurz tvorby backendu v JavaScriptu na Kódím.cz

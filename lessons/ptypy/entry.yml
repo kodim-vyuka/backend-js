@@ -1,0 +1,8 @@
+title: Parametrické typy
+lead: Základy parametrického typování a kde všude se hodí a používá.
+access: protected
+sections:
+  - motivace
+  - ukazky
+  - promisy
+  - cviceni

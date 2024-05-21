@@ -1,0 +1,12 @@
+title: Tvorba backendu v JavaScriptu
+lead: Jak vytvořit backend pro webovou aplikaci v JavaScriptu v Deno.
+image: assets/ts.svg
+intro: intro.md
+lessons:
+  - lessons/priprava
+  - lessons/dom-objekty
+  - lessons/modelovani
+  - lessons/rozlisovani
+  - lessons/nastaveni
+  - lessons/ptypy
+  - lessons/react
