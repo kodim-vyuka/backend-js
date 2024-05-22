@@ -1,0 +1,2 @@
+title: Časovače a události
+lead: Občas potřebujeme naplánovat nějaké události do budoucna – třeba každé ráno stáhnout předpověd počasí. Ukážeme si, jak s Deno Deploy plánovat takovéto akce.

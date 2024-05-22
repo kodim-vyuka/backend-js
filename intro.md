@@ -1,19 +1,20 @@
 ## Obsah kurzu
 
-Typescript je jeden z nejpoužívanějších jazyků pro vývoj webových aplikací jak na frontendu, tak na backendu. Jde o rozšíření jazyka JavaScript o možnost definovat a kontrolovat datové typy podobně jako v jazycích C# nebo Java.
+JavaScript vznikl jako jazyk pro použití ve webových prohlížečích. Postupně se ale osamostatnil a nyní můžete spouštět JavaScriptové programy mimo prohlížeč, přímo v počítači. JavaScript se tak začal používat i pro tvorbu menších a středních backendů pro webové aplikace.
 
 V kurzu se naučíte:
 
-- základy jazyka Typescript a jeho typového systému,
-- datové modelování,
-- nastavení Typescriptového projektu,
-- doporučené postupy pro vývoj webových aplikací v Typescriptu,
-- základy parametrických typů (generik),
-- jak použít Typescript v Reactu.
+- používat nástroj Deno pro spouštění JavaScriptu na počítači nebo serveru,
+- napsat API endpointy,
+- použití protokolu HTTP pro komunikaci prohlížeče a serveru,
+- ukládání dat do databáze na serveru,
+- přihlašování uživatelů na webu,
+- volat ze serveru jiná backend API,
+- nasadit backend spolu s frontendem do Deno Deploy.
 
 ## Průběh
 
-Kurz probíhá on-line. Je rozdělen do jedné přípravné lekce a 6 on-line lekcí. Každá on-line lekce probíhá jednou týdně, vždy od 18:00 do 20:00. V průběhu každé lekce se budeme věnovat jak výkladu tak praktickým cvičením.
+Kurz probíhá on-line. Je rozdělen do jedné přípravné lekce a 12 on-line lekcí. Každá on-line lekce probíhá jednou týdně, vždy od 18:00 do 20:00. V průběhu každé lekce se budeme věnovat jak výkladu tak praktickým cvičením.
 
 Kapacita kurzu je 12 účastníků abychom i v on-line prostoru dokázali udržet příjemné prostředí.
 
@@ -24,8 +25,8 @@ Kurz je zakončen **závěrečným testem**, který probíhá samostatně on-lin
 Cena zahrnuje:
 
 - jednu přípravnou lekci pro samostudium,
-- 6 on-line lekcí po 2 hodinách,
+- 12 on-line lekcí po 2 hodinách,
 - přístup k podrobným materiálům na webu,
 - přístup na společný Discord s možností klást dotazy,
-- 3 miniaplikace na procvičení látky a získání zpětné vazby,
+- miniaplikace na procvičení látky a získání zpětné vazby,
 - závěrečný test a certifikát.

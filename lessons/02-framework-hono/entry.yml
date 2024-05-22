@@ -1,0 +1,2 @@
+title: Serverový framework Hono
+lead: Framework Hono zjednodušuje psaní serverových endpointů. Lze jej používat s různými poskytovateli cloudových služeb, mimo jiné i s Deno. Ukážeme si, jak napsat pár jednoduchých endpointů.

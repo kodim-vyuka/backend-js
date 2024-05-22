@@ -1,0 +1,2 @@
+title: DenoKV – cloudová key value databáze
+lead: Součástí Deno Deploy je kye-value databáze DenoKV, do které můžeme ukládat data. Byla schovaná i pod RESTful-Collections, teď si ale ukážeme, jak ji používat přímo a využít všech jejích možností.
