@@ -4,9 +4,13 @@ image: assets/deno.svg
 intro: intro.md
 lessons:
   - lessons/priprava
-  - lessons/dom-objekty
-  - lessons/modelovani
-  - lessons/rozlisovani
-  - lessons/nastaveni
-  - lessons/ptypy
-  - lessons/react
+  - lessons/deno
+  - lessons/framework-hono
+  - lessons/deploy
+  - lessons/http-komunikace
+  - lessons/soubory
+  - lessons/validace-dokumentace
+  - lessons/deno-kv
+  - lessons/externi-api-fetch
+  - lessons/prihlasovani-uzivatelu
+  - lessons/bezpecnost
