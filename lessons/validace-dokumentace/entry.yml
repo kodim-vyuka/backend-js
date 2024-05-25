@@ -1,2 +1,3 @@
 title: Validace vstupních dat a dokumentace
 lead: Ověřit, že ukládaná data mají správný formát, jsou vyplněny všechny povinné položky – to vše je úkolem backendu. Autor backendu by pak měl zveřejnit dokumentaci popisující, jaká data backend očekává, vrací a jaké služby poskytuje.
+sections: []
