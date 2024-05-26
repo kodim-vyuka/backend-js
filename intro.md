@@ -33,4 +33,4 @@ Cena zahrnuje:
 
 ## Termíny
 
-Nejbližší termíny kurzu budou vypsány v září - říjnu 2024. Dejte nám vědět, pokud máte o kurz zájem a budeme vás budeme informovat o nových termínech.
+Nejbližší termíny kurzu budou vypsány v září - říjnu 2024. Dejte nám vědět, pokud máte o kurz zájem a budeme vás informovat o nových termínech.
