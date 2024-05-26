@@ -1,3 +1,4 @@
 title: Spouštění JavaScriptového kódu
 lead: Jak spouštět JavaScriptový kód v počítači pomocí Deno, jak spustit webový server. A proč používáme Deno a ne známější Node.js.
+access: protected
 sections: []

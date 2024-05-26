@@ -1,3 +1,4 @@
 title: Komunikace protokolem HTTP
 lead: Komunikace prohlížeče se serverem, HTTP hlavičky, zabezpečení komunikace, různé typy přenášených dat.
+access: protected
 sections: []
