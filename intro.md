@@ -30,3 +30,7 @@ Cena zahrnuje:
 - přístup na společný Discord s možností klást dotazy,
 - miniaplikace na procvičení látky a získání zpětné vazby,
 - závěrečný test a certifikát.
+
+## Termíny
+
+Nejbližší termíny kurzu budou vypsány v září - říjnu 2024. Dejte nám vědět, pokud máte o kurz zájem a budeme vás budeme informovat o nových termínech.
